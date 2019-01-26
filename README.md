@@ -13,3 +13,6 @@ Thay vì học những định nghĩa và khái niệm khó hiểu dễ quên, t
 ### Cảm hứng được lan tỏa khi chúng ta cùng làm với nhau. 
 
 Tham gia khóa học thì bắt buộc bạn cần phải làm nhóm, điều này vừa giúp các bạn trao đổi, chia sẻ, cũng như là rèn luyện tinh thần làm việc nhóm 
+
+
+Nào, cùng nắt đầu tại đây: https://github.com/lambdademy/web-dev-basic/wiki
