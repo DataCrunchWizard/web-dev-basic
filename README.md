@@ -19,3 +19,4 @@ Nào, cùng bắt đầu tại đây: https://github.com/lambdademy/web-dev-basi
 
 
 ![](https://i.imgur.com/yYlYatU.png])
+Image source: https://medium.com/@sebastienphl/a-practical-guide-to-learning-the-basics-of-web-programming-79961f3f3baa
