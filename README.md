@@ -16,3 +16,6 @@ Tham gia khóa học thì bắt buộc bạn cần phải làm nhóm, điều n�
 
 
 Nào, cùng bắt đầu tại đây: https://github.com/lambdademy/web-dev-basic/wiki
+
+
+!(https://i.imgur.com/yYlYatU.png])
