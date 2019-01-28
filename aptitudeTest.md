@@ -74,3 +74,15 @@
 
 ![](https://i.imgur.com/yrGPjrw.png)
 
+
+## Nộp kết quả
+
+Sau khi hoàn thành xong những câu hỏi trên, bạn vui lòng gửi lại kết quả vào email hong@cloudjetkpi.com . 
+
+## Việc tiếp theo
+
+Sau khi gửi kết qủa qua email, bạn vui lòng vào link sau để thực hiện thử thách tiếp theo https://discord.gg/b5c7N2t 
+
+Đây là thử thách cuối cùng để xem xét bạn có phù hợp với khóa học hay không. 
+
+**Ghi chú:** Bạn vui lòng cài đặt [Discord](https://discord.gg/b5c7N2t ) lên máy tính và điện thoại để dễ dàng nhận được thông báo kết quả nhanh và tránh bị thất lại qua email. 
