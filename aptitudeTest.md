@@ -67,7 +67,7 @@
 
 30. Hình nào phù hợp nhất điền vào dấu hỏi?
 
-![](blob:https://imgur.com/034a3663-223f-4479-9a9c-d870cdb7e2ec)
+![](https://i.imgur.com/tcrJNBB.png)
 
 31. Chia 30 với 1/2 sau đó cộng thêm 10, đáp án là bao nhiêu?
 32. Đuổi hình bắt chữ, hình bên dưới là chữ gì?
