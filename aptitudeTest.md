@@ -1,7 +1,7 @@
  
 ## Phần 1. Bên dưới là bảng chữ cái. Hãy xác định ký tự nào bị thiếu bên dưới ở dấu ? cho các câu hỏi bên dưới
 
-a b c d e f g h i j k l m n o p q r s t u v w x y z
+**a b c d e f g h i j k l m n o p q r s t u v w x y z**
  
 1. a     a     b     b     ?     c
 
@@ -67,6 +67,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 
 30. Hình nào phù hợp nhất điền vào dấu hỏi?
 
+![](blob:https://imgur.com/034a3663-223f-4479-9a9c-d870cdb7e2ec)
 
 31. Chia 30 với 1/2 sau đó cộng thêm 10, đáp án là bao nhiêu?
 32. Đuổi hình bắt chữ, hình bên dưới là chữ gì?
