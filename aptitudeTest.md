@@ -1,5 +1,5 @@
  
-Phần 1.  Bên dưới là bảng chữ cái. Hãy xác định ký tự nào bị thiếu bên dưới ở dấu ? cho các câu hỏi bên dưới
+## Phần 1. Bên dưới là bảng chữ cái. Hãy xác định ký tự nào bị thiếu bên dưới ở dấu ? cho các câu hỏi bên dưới
 
 a b c d e f g h i j k l m n o p q r s t u v w x y z
  
@@ -59,7 +59,7 @@ a b c d e f g h i j k l m n o p q r s t u v w x y z
 
 
 
-Phần 2: Những câu hỏi khác, vui lòng giải thích cách bạn tìm ra đáp án cho mỗi câu. 
+## Phần 2: Những câu hỏi khác, vui lòng giải thích cách bạn tìm ra đáp án cho mỗi câu. 
 
 28. Bạn được tăng lưong 4% và 5$ mỗi tuần. Lương hiện tại của bạn là 100$/tuần. Lưong của bạn sau 3 tháng là bao nhiêu? 
 
