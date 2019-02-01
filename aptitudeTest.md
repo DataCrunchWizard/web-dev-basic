@@ -87,4 +87,4 @@ Sau khi gửi kết qủa qua email, bạn vui lòng vào link sau để th
 
 ## Lưu ý quan trọng cần làm ngay
 
-Bạn vui lòng cài đặt [Discord](https://discord.gg/b5c7N2t ) lên máy tính và điện thoại để dễ dàng nhận được thông báo kết quả nhanh và tránh bị thất lại qua email. Những bước thông báo tiếp theo chỉ̉ đựoc gửi qua discord và sẽ không gửi qua email. 
+Bạn vui lòng cài đặt [Discord](https://discord.gg/b5c7N2t ) lên **máy tính và điện thoại** để dễ dàng nhận được thông báo kết quả nhanh và tránh bị thất lại qua email. Những bước thông báo tiếp theo chỉ̉ đựoc gửi qua discord và sẽ không gửi qua email. 
