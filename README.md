@@ -14,6 +14,23 @@ Thay vì học những định nghĩa và khái niệm khó hiểu dễ quên, t
 
 Tham gia khóa học thì bắt buộc bạn cần phải làm nhóm, điều này vừa giúp các bạn trao đổi, chia sẻ, cũng như là rèn luyện tinh thần làm việc nhóm 
 
+# Những nguyên tắc chung
+
+### Chủ động hỏi khi gặp thắc mắc 
+
+> khi người học trò sẵn sàng người thầy sẽ xuất hiện
+
+Tất cả những gì bạn cần đó là sự chủ động, khi bất cứ khó khăn gì hãy hỏi ngay tại đây: https://discord.gg/5DST9D
+
+### Chủ động tìm hiểu 
+
+Toàn bộ những vấn đề mà bạn thắc mắc, đầu tiên hãy thử dùng Google 
+
+
+### Đặt lịch `Office hour` với huấn luyện viên hàng tuần  
+
+Nhóm của bạn cần chủ động đặt lịch gặp huấn luyện viên hàng tuần để trao đổi trong suốt quá trình. 
+
 
 Nào, cùng bắt đầu tại đây: https://github.com/lambdademy/web-dev-basic/wiki
 
